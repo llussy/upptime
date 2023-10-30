@@ -58,19 +58,19 @@
     "url": "https://wieof.top",
     "icon": "https://icons.duckduckgo.com/ip3/wieof.top.ico",
     "slug": "wieof",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1954,
-    "timeDay": 2877,
-    "timeWeek": 1954,
-    "timeMonth": 1954,
-    "timeYear": 1954,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 1874,
+    "timeDay": 2427,
+    "timeWeek": 1874,
+    "timeMonth": 1874,
+    "timeYear": 1874,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 10
     }
   }
 ]
