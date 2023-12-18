@@ -62,7 +62,7 @@
     "url": "https://wieof.top",
     "icon": "https://icons.duckduckgo.com/ip3/wieof.top.ico",
     "slug": "wieof",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -74,6 +74,7 @@
     "timeMonth": 1705,
     "timeYear": 1863,
     "dailyMinutesDown": {
+      "2023-12-18": 0,
       "2023-12-05": 16
     }
   }
