@@ -1,5 +1,7 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
 
+![Alt](https://repobeats.axiom.co/api/embed/abd6383c3f59ba13af62ce565fc7eb5448d17f7c.svg "Repobeats analytics image")
+
 This repository contains the open-source uptime monitor and status page for [llussy](https://llussy.github.io), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/llussy/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/llussy/upptime/actions?query=workflow%3A%22Uptime+CI%22)
