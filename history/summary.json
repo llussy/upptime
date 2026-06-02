@@ -38,7 +38,7 @@
     "timeDay": 208,
     "timeWeek": 197,
     "timeMonth": 176,
-    "timeYear": 186,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2026-03-18": 59
     }
@@ -66,9 +66,9 @@
     "url": "https://wieof.top",
     "icon": "https://icons.duckduckgo.com/ip3/wieof.top.ico",
     "slug": "wieof",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "88.52%",
+    "uptimeDay": "88.51%",
     "uptimeWeek": "98.36%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.96%",
@@ -76,7 +76,7 @@
     "timeDay": 1314,
     "timeWeek": 1500,
     "timeMonth": 1337,
-    "timeYear": 1605,
+    "timeYear": 1606,
     "dailyMinutesDown": {
       "2025-08-19": 59,
       "2026-06-02": 165
